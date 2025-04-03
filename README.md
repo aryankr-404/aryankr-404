@@ -35,7 +35,7 @@
 
 ## 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aryankr-404&show_icons=true&locale=en&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aryankr-404&show_icons=true&locale=en&layout=compact" /> <br />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=aryankr-404" />
 </p>
 
