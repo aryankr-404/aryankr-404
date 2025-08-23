@@ -8,9 +8,7 @@
 <img align="right" width="400px"  src="https://res.cloudinary.com/superfolio/image/upload/v1620689979/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f63362f33332f63322f63363333633230656465383266306530636564376435373064626533613166332e676966_yjuh2s.gif">
 
 ### 🚀 About Me:
-- 🌱 I’m currently learning **GenAI**
 - 👨‍💻 Check out my portfolio: [Click Here](https://portfolio-eight-delta-77.vercel.app/)
-- 💬 Ask me about **MERN Stack, GenAI, AWS**
 - 📫 Reach me at **kraryan713@gmail.com**
 - 📄 My Resume: [Google Drive Link](https://drive.google.com/drive/folders/1Q2hVU-1J5_oLKvYYPaBIzYVGJT19xZwU?usp=drive_link)
 
@@ -29,7 +27,7 @@
 
 ## 🛠️ Languages and Tools:
 <p align="left">
-<img src="https://skillicons.dev/icons?i=cpp,python,js,html,css,bootstrap,figma,tailwind,threejs,react,nextjs,redux,nodejs,npm,express,fastapi,postman,mongodb,mysql,git,github,aws,docker,kubernetes,linux,vscode,webstorm,pycharm" />
+<img src="https://skillicons.dev/icons?i=cpp,python,js,html,css,figma,tailwind,threejs,react,nextjs,redux,nodejs,express,postman,mongodb,mysql,git,github,aws,docker,kubernetes,linux,vscode,webstorm,pycharm" />
 </p>
 
 ---
@@ -37,7 +35,7 @@
 ## 📊 GitHub Stats:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aryankr-404&show_icons=true&locale=en&layout=compact" /> <br />
-  <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=aryankr-404" /> -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aryankr-404" />
 </p>
 
 ---
