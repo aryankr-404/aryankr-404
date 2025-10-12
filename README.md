@@ -10,7 +10,7 @@
 ### 🚀 About Me:
 - 👨‍💻 Check out my portfolio: [Click Here](https://portfolio-eight-delta-77.vercel.app/)
 - 📫 Reach me at **kraryan713@gmail.com**
-- 📄 My Resume: [Google Drive Link](https://drive.google.com/drive/folders/1Q2hVU-1J5_oLKvYYPaBIzYVGJT19xZwU?usp=drive_link)
+- 📄 My Resume: [Google Drive Link](https://drive.google.com/drive/folders/1oZnNThsyzI56Vz-MgttbOXJ9k-UQ55Mo)
 
 ---
 
